@@ -1,0 +1,19 @@
+{
+    "name": "cafe_racer_1",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3RgTfzf3tiEKchLWHvjZ9xpFso86KmT8FSQTZhNda97a",
+          "share": 100
+        }
+      ]
+    }
+  }
